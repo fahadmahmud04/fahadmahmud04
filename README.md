@@ -22,8 +22,8 @@
 <section id="links" class="container">
   <h2>Links</h2>
   <ul>
-    <li><a href="https://github.com/your-username">GitHub Profile</a></li>
-    <li><a href="https://linkedin.com/in/your-profile">LinkedIn Profile</a></li>
+    <li><a href="https://github.com/your-fahadmahmud04">GitHub Profile</a></li>
+    <li><a href="https://linkedin.com/in/fahadmahmud04">LinkedIn Profile</a></li>
     <!-- Add more links to your social profiles or projects -->
   </ul>
 </section>
