@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**fahadmahmud04/fahadmahmud04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Introduction
+What’s up, I’m Md. Mahmudur Rahman Fahad. I’m a Web developer living in Dhaka, Bangladesh. I am a fan of technology, entrepreneurship, and programming. I’m also interested in web development and politics.
 
-Here are some ideas to get you started:
+## Skills
+- HTML
+- CSS
+- Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links
+- [fahadmahmud.com]
+
+## GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
