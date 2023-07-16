@@ -21,6 +21,7 @@
   <a href="https://www.https://join.skype.com/invite/ygF2c9KJXiQR">
     <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge"/>
   </a>
+    <img src="https://komarev.com/ghpvc/?username=fahadmahmud04&style=flat-square&color=brightgreen" alt="Profile Views"/>
 </div>
 </div>
  
