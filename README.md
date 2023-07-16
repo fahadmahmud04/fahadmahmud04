@@ -1,15 +1,15 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+</head>
+<body>
+  <section id="introduction" class="container">
+    <h1>Hi, I'm Md. Mahmudur Rahman Fahad</h1>
+    <p>I'm a web developer living in Dhaka, Bangladesh. I am passionate about technology, entrepreneurship, and programming. I have expertise in HTML, CSS, and Bootstrap. On my GitHub profile, you'll find my projects and contributions.</p>
+    <a class="btn btn-primary" href="https://your-website-url.com">Visit My Website</a>
+  </section>
+</body>
+</html>
 
-# Introduction
-What’s up, I’m Md. Mahmudur Rahman Fahad. I’m a Web developer living in Dhaka, Bangladesh. I am a fan of technology, entrepreneurship, and programming. I’m also interested in web development and politics.
-
-## Skills
-- HTML
-- CSS
-- Bootstrap
-
-## Links
-- [fahadmahmud.com]
-
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
