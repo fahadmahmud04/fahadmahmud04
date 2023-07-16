@@ -16,9 +16,15 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://www.facebook.com/fahadmahmud04">
-    <img src="https://img.shields.io/badge/Facebook-white?logo=Facebook&logoColor=blue" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="https://www.https://join.skype.com/invite/ygF2c9KJXiQR">
+    <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge"/>
   </a>
 </div>
+
+
+  
   <section id="skills" class="container">
   <h2>Skills</h2>
   <ul>
