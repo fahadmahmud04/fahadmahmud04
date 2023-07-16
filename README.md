@@ -41,11 +41,11 @@
 
  I’m Md. Mahmudur Rahman Fahad. I’m a Web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Dhaka,Bangladesh.
 
-- :telescope: I’m learning Full Stack Web Application Development and technologies.
+- :telescope: I’m a Web Designer and learning Full Stack Web Application Development with latest technologies.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems.
+- :zap: I am a fan of technology, entrepreneurship, and programming. I’m also interested in web development and politics. You can visit my website with a click on the button above.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fahadmahmud04)
   
