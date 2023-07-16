@@ -7,8 +7,8 @@
 <body>
   <div id="header" align="center">
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="200"/>
-</div>
-  <div id="badges">
+
+     <div id="badges">
   <a href="https://linkedin.com/in/fahadmahmud04">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -22,6 +22,8 @@
     <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge"/>
   </a>
 </div>
+</div>
+ 
 
 
   
