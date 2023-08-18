@@ -41,7 +41,7 @@
 
  I’m Md. Mahmudur Rahman Fahad. "I'm on a trajectory to become a prominent web developer, molding the online sphere with my evolving skills." <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Dhaka, Bangladesh.
 
-- :telescope: I’m a Web Designer and learning Full Stack Web Application Development with the latest technologies.
+- :telescope: I’m a Web Designer, learning Full Stack Web Application Development with the latest technologies.
 
 - :seedling: Exploring Technical Content Writing.
 
