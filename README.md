@@ -39,13 +39,13 @@
 
 ### :woman_technologist: About Me :
 
- I’m Md. Mahmudur Rahman Fahad. I’m a Web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Dhaka,Bangladesh.
+ I’m Md. Mahmudur Rahman Fahad. "I'm on a trajectory to become a prominent web developer, molding the online sphere with my evolving skills." <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Dhaka, Bangladesh.
 
-- :telescope: I’m a Web Designer and learning Full Stack Web Application Development with latest technologies.
+- :telescope: I’m a Web Designer and learning Full Stack Web Application Development with the latest technologies.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: I am a fan of technology, entrepreneurship, and programming. I’m also interested in web development and politics. You can visit my website with a click on the button .
+- :zap: I love technology, entrepreneurship, and programming. I’m also interested in web development and politics. You can visit my website with a click on the button.
 <!--Button-->
 <center>
  <table align="center" cellspacing="0" cellpadding="0" width="100%">
